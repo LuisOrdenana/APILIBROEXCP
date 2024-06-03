@@ -20,8 +20,6 @@ Ahora, cuando se realiza una petición GET a `/libros/{id_libro}` y el libro sol
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/NMgPLhdW/Captura-de-pantalla-2024-06-03-124606.png' border='0' alt='Captura-de-pantalla-2024-06-03-124606'/></a>
 
-![image](https://github.com/LuisOrdenana/APILIBROEXCP/assets/170282412/b86e2206-9dd4-4ea1-accd-d634cf96f759)
-
 #### Estado NOT_FOUND
 
 Junto con la excepción `LibroException`, el servidor responde con un estado `NOT_FOUND`. Este estado se acompaña de un mensaje personalizado que proporciona más detalles sobre el error, mejorando así la comprensibilidad del problema para el cliente.
@@ -30,6 +28,7 @@ Junto con la excepción `LibroException`, el servidor responde con un estado `NO
 
 ![image](https://github.com/LuisOrdenana/APILIBROEXCP/assets/170282412/6fa41dc5-c44c-458a-98c9-e8af125dc868)
 
+![image](https://github.com/LuisOrdenana/APILIBROEXCP/assets/170282412/b86e2206-9dd4-4ea1-accd-d634cf96f759)
 
 #### Estado CREATE
 
