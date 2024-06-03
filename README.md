@@ -18,9 +18,12 @@ El controlador de libros ha sido mejorado con las siguientes funcionalidades:
 
 Ahora, cuando se realiza una petición GET a `/libros/{id_libro}` y el libro solicitado no existe en la base de datos, se lanza una excepción personalizada `LibroException`. Esta excepción permite manejar de manera más eficiente los casos en los que se solicita un libro inexistente.
 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/NMgPLhdW/Captura-de-pantalla-2024-06-03-124606.png' border='0' alt='Captura-de-pantalla-2024-06-03-124606'/></a>
+
 #### Estado NOT_FOUND
 
 Junto con la excepción `LibroException`, el servidor responde con un estado `NOT_FOUND`. Este estado se acompaña de un mensaje personalizado que proporciona más detalles sobre el error, mejorando así la comprensibilidad del problema para el cliente.
+![image](https://github.com/LuisOrdenana/APILIBROEXCP/assets/170282412/02b9036f-e752-4834-9ba6-51e9c8d0987d)
 
 #### Estado CREATE
 
