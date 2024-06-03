@@ -8,7 +8,7 @@ Este proyecto presenta una serie de mejoras y modificaciones en la API de la bib
 
 Se ha integrado un manejador global de excepciones para gestionar errores personalizados en todo el proyecto. Esto permite una mayor consistencia y control sobre los errores y las respuestas proporcionadas por la API.
 
-https://postimg.cc/VJFG44kG
+[url=https://postimages.org/][img]https://i.postimg.cc/9Q66mn5h/Captura-de-pantalla-2024-06-03-124741.png[/img][/url]
 
 ### Controlador de Libros
 
